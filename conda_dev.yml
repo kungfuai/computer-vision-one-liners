@@ -1,0 +1,7 @@
+# For development purpose.
+name: cv1l
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pip

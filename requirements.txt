@@ -1,0 +1,6 @@
+tensorflow==2.1.0
+click>=7
+Pillow
+black
+flake8
+pytest

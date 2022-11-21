@@ -1,4 +1,4 @@
-tensorflow==2.1.0
+tensorflow==2.9.3
 click>=7
 Pillow
 black
